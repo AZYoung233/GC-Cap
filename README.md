@@ -36,8 +36,6 @@ The **GC-Cap** series are specialized LVLMs fine-tuned for game character captio
 | GC-Cap-8B | Qwen3-VL-8B | 🤗 [AZYoung/GC-Cap-8B](https://huggingface.co/AZYoung/GC-Cap-8B) |
 | GC-Cap-32B | Qwen3-VL-32B | 🤗 [AZYoung/GC-Cap-32B](https://huggingface.co/AZYoung/GC-Cap-32B) |
 
-> 📌 Models will be released soon. Stay tuned!
-
 ## 📊 GC-Bench Benchmark
 
 **GC-Bench** is the first benchmark dedicated to **Game Character Captioning**, containing **186** manually annotated game character images across **6 artistic styles**:
